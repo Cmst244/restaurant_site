@@ -1,0 +1,37 @@
+body{
+  padding-bottom: 50px;
+}
+
+.big-centered-image {
+}
+
+
+h1 {
+    font-size: 250%;
+    color: #BCC518;
+    text-align: center;
+}
+h2 {
+    font-size: 150%;
+}
+h3 {
+  font-size: 125%
+}
+
+
+#nav{
+  text-align:left;;
+  border:1px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  color: #f2f2f2;
+  margin-bottom: 50px;
+  padding: 10px;
+
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.5em;
+
+  text-align: center;
+  max-width: 400px;
+
+}
